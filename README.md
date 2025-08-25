@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Olá,%20sou%20Arthur!&fontSize=35&animation=twinkling"/>
 </p>
 
-<p align="center">
-  <a href="https://instagram.com/arthurmf_749"><img height="28" src="https://img.shields.io/badge/Instagram-@arthurmf_749-E4405F?logo=instagram&logoColor=white"/></a>
-  <!-- Adicione outros links: LinkedIn, Email, etc. -->
-</p>
-
 ---
 
 ### 👋 Sobre Mim
