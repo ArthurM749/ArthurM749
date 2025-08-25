@@ -51,5 +51,5 @@
 
 ### 👇 Fale comigo!
 
-- [Gmail](arthurmccomp@gmail.com)
+- **Email:** arthurmccomp@gmail.com
 
