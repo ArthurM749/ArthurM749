@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Olá,%20sou%20Arthur%20M!&fontSize=35&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Olá,%20sou%20Arthur!&fontSize=35&animation=twinkling"/>
 </p>
 
 <p align="center">
@@ -11,11 +11,11 @@
 
 ### 👋 Sobre Mim
 
-- 🎓 Estudante de **Ciência da Computação**
-- 💻 Apaixonado por desenvolvimento web, atualmente focado em **PHP** e **MySQL**
-- 🔒 Entusiasta de **boas práticas**, arquitetura de software e **segurança**
-- 🚀 Em transição para **Desenvolvedor Pleno**, sempre aprendendo novas tecnologias
-- 🧩 Gosto de resolver problemas e compartilhar conhecimento
+-🎓 Estudante de Ciência da Computação
+-💻 Desenvolvo aplicações web com foco em PHP e MySQL
+-🔒 Pratico boas práticas, arquitetura de software e segurança
+-🚀 Evoluindo para Desenvolvedor Pleno, ampliando conhecimento em novas tecnologias
+-🧩 Resolvo problemas e compartilho conhecimento através de projetos e estudos
 
 ---
 
@@ -40,7 +40,7 @@
 | Projeto | Descrição |
 |---------|-----------|
 | [**LembreMed**](https://github.com/ArthurM749/Projeto-de-Faculdade-site-Lembrete-de-Medicamentos) | Site para cadastrar lembretes de medicamentos – cadastro, login, histórico, UI responsiva e foco em usabilidade e segurança. |
-| *(Em breve)* | Novos projetos em desenvolvimento! |
+| *(Em breve)* | Projetos em desenvolvimento! |
 
 ---
 
@@ -56,15 +56,5 @@
 ### 🤝 Vamos Conectar!
 
 - [Instagram](https://instagram.com/arthurmf_749)
-- [Adicione seu LinkedIn ou Email aqui]
+- 
 
----
-
-<details>
-<summary>📚 &nbsp;Mais sobre mim</summary>
-  
-- Curioso e dedicado, sempre buscando desafios que me tirem da zona de conforto.
-- Valor pelo código limpo, seguro e sustentável.
-- Aberto a colaborações e networking!
-
-</details>
