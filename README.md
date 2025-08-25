@@ -12,9 +12,13 @@
 ### 👋 Sobre Mim
 
 -🎓 Estudante de Ciência da Computação
+
 -💻 Desenvolvo aplicações web com foco em PHP e MySQL
+
 -🔒 Pratico boas práticas, arquitetura de software e segurança
+
 -🚀 Evoluindo para Desenvolvedor Pleno, ampliando conhecimento em novas tecnologias
+
 -🧩 Resolvo problemas e compartilho conhecimento através de projetos e estudos
 
 ---
