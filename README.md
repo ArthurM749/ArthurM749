@@ -25,17 +25,9 @@
 
 ### 🛠️ Tecnologias & Ferramentas
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <!-- Adicione ícones de outras tecnologias que aprender -->
-</p>
-
-- **Principais:** PHP, MySQL, HTML5, CSS3
-- **Aprendendo:** [adicione aqui novas stacks, frameworks, etc.]
-- **Ferramentas:** Git, VSCode, Figma, [adicione outras]
+- **Principais:** PHP, MySQL, HTML5, CSS3 e JavaScript
+- **Aprendendo:** Como me desenvolver em cada linguagem.
+- **Ferramentas:** Git e VSCode.
 
 ---
 
@@ -57,8 +49,7 @@
 
 ---
 
-### 🤝 Vamos Conectar!
+### 👇 Fale comigo!
 
-- [Instagram](https://instagram.com/arthurmf_749)
-- 
+- [Gmail](arthurmccomp@gmail.com)
 
