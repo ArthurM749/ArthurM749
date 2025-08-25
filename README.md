@@ -6,22 +6,21 @@
 
 ### 👋 Sobre Mim
 
--🎓 Estudante de Ciência da Computação
+- 🎓 Estudante de Ciência da Computação
 
--💻 Desenvolvo aplicações web com foco em PHP e MySQL
+- 💻 Desenvolvo aplicações web com foco em PHP e MySQL
 
--🔒 Pratico boas práticas, arquitetura de software e segurança
+- 🔒 Pratico boas práticas, arquitetura de software e segurança
 
--🚀 Evoluindo para Desenvolvedor Pleno, ampliando conhecimento em novas tecnologias
+- 🚀 Evoluindo para Desenvolvedor Pleno, ampliando conhecimento em novas tecnologias
 
--🧩 Resolvo problemas e compartilho conhecimento através de projetos e estudos
+- 🧩 Resolvo problemas e compartilho conhecimento através de projetos e estudos
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-- **Principais:** PHP, MySQL, HTML5, CSS3 e JavaScript
-- **Aprendendo:** Como me desenvolver em cada linguagem.
+- **Principais:** PHP, MySQL, HTML5, CSS3 e JavaScript.
 - **Ferramentas:** Git e VSCode.
 
 ---
