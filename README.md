@@ -6,22 +6,19 @@
 
 ### 👋 Sobre Mim
 
-- 🎓 Estudante de Ciência da Computação
-
+- 🎓 Formado no **Senac** em **Programação Web**
+- 🎓 Estudante de **Ciência da Computação** (2º período)
 - 💻 Desenvolvo aplicações web com foco em PHP e MySQL
-
 - 🔒 Pratico boas práticas, arquitetura de software e segurança
-
 - 🚀 Evoluindo para Desenvolvedor Pleno, ampliando conhecimento em novas tecnologias
-
 - 🧩 Resolvo problemas e compartilho conhecimento através de projetos e estudos
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-- **Principais:** PHP, MySQL, HTML5, CSS3 e JavaScript.
-- **Ferramentas:** Git e VSCode.
+- **Principais:** PHP, MySQL, HTML5, CSS3 e JavaScript  
+- **Ferramentas:** Git e VSCode  
 
 ---
 
@@ -46,4 +43,3 @@
 ### 👇 Fale comigo!
 
 - **Email:** arthurmccomp@gmail.com
-
