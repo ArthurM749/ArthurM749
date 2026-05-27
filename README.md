@@ -1,36 +1,69 @@
-# Arthur M  
-_Studying Computer Science | Aspiring Software Engineer_
+<div align="center">
 
-## Sobre mim  
-🎓 Formado no Senac em Programação Web  
-🎓 Estudante de Ciência da Computação (2º período) na Univértix
+<br/>
 
-💻 Desenvolvo aplicações Web  
-🔒 Pratico boas práticas, arquitetura de software e segurança  
-🚀 Evoluindo para Desenvolvedor Pleno, ampliando conhecimento em novas tecnologias  
-🧩 Resolvo problemas e compartilho conhecimento através de projetos e estudos  
+```
+ █████╗ ██████╗ ████████╗██╗  ██╗██╗   ██╗██████╗     ███╗   ███╗
+██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██║   ██║██╔══██╗    ████╗ ████║
+███████║██████╔╝   ██║   ███████║██║   ██║██████╔╝    ██╔████╔██║
+██╔══██║██╔══██╗   ██║   ██╔══██║██║   ██║██╔══██╗    ██║╚██╔╝██║
+██║  ██║██║  ██║   ██║   ██║  ██║╚██████╔╝██║  ██║    ██║ ╚═╝ ██║
+╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝    ╚═╝     ╚═╝
+```
 
-## Tech Stack  
-![Python](https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=yellow)
-![PHP](https://img.shields.io/badge/PHP-111111?style=flat&logo=php&logoColor=777BB4)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat&logo=css3&logoColor=1572B6)
-![SQL](https://img.shields.io/badge/SQL-111111?style=flat&logo=mysql&logoColor=4479A1)
-![Git](https://img.shields.io/badge/Git-111111?style=flat&logo=git&logoColor=F05032)
+</div>
 
-## Projetos em destaque  
-| Projeto | Tecnologias | Descrição |
-|---|---|---|
-| Lembrete de Medicamentos | PHP, MySQL, JS | Sistema para organizar horários de medicação. |
-| Portfolio | HTML, CSS, JS | Página pessoal de apresentação. |
+---
 
-## Estatísticas no GitHub  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurM749&theme=github_dark&hide_border=true&show_icons=true" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurM749&layout=compact&theme=github_dark&hide_border=true" />  
-</p>
+<br/>
 
-## Contato  
-- Email: arthurmccomp@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/arthur-moura-73b1b1388)  
+## `whoami`
+
+Desenvolvedor web apaixonado por código limpo, arquitetura sólida e aprendizado contínuo. Atualmente no 4º período de **Ciência da Computação** na Univértix e com formação técnica em **Programação Web** pelo Senac.
+
+Construo aplicações focadas em boas práticas, segurança e manutenibilidade — não só em fazer funcionar, mas em fazer **bem feito**. No caminho para desenvolvedor pleno, explorando novas tecnologias e resolvendo problemas reais com código.
+
+<br/>
+
+## `stack`
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=777BB4)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+
+<br/>
+
+## `projects`
+
+> _Alguns dos projetos que refletem minha evolução como desenvolvedor._
+
+<br/>
+
+| &nbsp; | Projeto | Stack | &nbsp; |
+|:---:|:---|:---|:---:|
+| `01` | **Lembrete de Medicamentos** | PHP · MySQL · JS | [→ ver](https://github.com/ArthurM749/SEU-REPO-AQUI) |
+| `02` | **Portfólio Pessoal** | HTML · CSS · JS | [→ ver](https://github.com/ArthurM749/SEU-REPO-AQUI) |
+
+<br/>
+
+## `stats`
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ArthurM749&theme=github_dark&hide_border=true&show_icons=true&hide_title=true&rank_icon=github" />
+  &nbsp;&nbsp;
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurM749&layout=compact&theme=github_dark&hide_border=true" />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+`arthurmccomp@gmail.com` &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/arthur-moura-73b1b1388)
+
+</div>
