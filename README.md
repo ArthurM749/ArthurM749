@@ -20,9 +20,9 @@
 
 ## `Profile`
 
-Eu sou o Arthur,
-e nunca acho que bom é bom o suficiente,
-o próximo projeto sempre vai superar o anterior.
+ **Eu sou o Arthur, <br>
+e acho que bom nunca é bom o suficiente,<br>
+o próximo projeto sempre vai superar o anterior.** <br>
 
 <br/>
 
