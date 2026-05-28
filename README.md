@@ -18,15 +18,15 @@
 <br/>
 
 
-## `whoami`
+## `Profile`
 
-Desenvolvedor web apaixonado por código limpo, arquitetura sólida e aprendizado contínuo.
-
-Código que funciona é o mínimo — construo aplicações que resistem ao tempo, escalam com confiança e fazem sentido para quem vier depois. Em evolução constante rumo ao pleno, transformando complexidade em soluções elegantes e problemas reais em código com propósito.
+Eu sou o Arthur,
+e nunca acho que bom é bom o suficiente,
+o próximo projeto sempre vai superar o anterior.
 
 <br/>
 
-**`formação`**
+**`Formação`**
 
 - 🎓 Ciência da Computação (4º período) — Univértix
 - 📜 Técnico em Programação Web — Senac
@@ -34,7 +34,7 @@ Código que funciona é o mínimo — construo aplicações que resistem ao temp
 <br/>
 
 
-## `stack`
+## `Stack`
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
@@ -48,7 +48,7 @@ Código que funciona é o mínimo — construo aplicações que resistem ao temp
 
 <br/>
 
-## `projects`
+## `Projects`
 
 > _Alguns dos projetos que refletem minha evolução como desenvolvedor._
 
@@ -61,7 +61,7 @@ Código que funciona é o mínimo — construo aplicações que resistem ao temp
 
 <br/>
 
-## `stats`
+## `Stats`
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=ArthurM749&theme=github_dark&hide_border=true&show_icons=true&hide_title=true&rank_icon=github" />
