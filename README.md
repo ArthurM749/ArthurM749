@@ -1,30 +1,27 @@
 <div align="center">
+
 <br/>
 
+```
  █████╗ ██████╗ ████████╗██╗  ██╗██╗   ██╗██████╗     ███╗   ███╗
 ██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██║   ██║██╔══██╗    ████╗ ████║
 ███████║██████╔╝   ██║   ███████║██║   ██║██████╔╝    ██╔████╔██║
 ██╔══██║██╔══██╗   ██║   ██╔══██║██║   ██║██╔══██╗    ██║╚██╔╝██║
 ██║  ██║██║  ██║   ██║   ██║  ██║╚██████╔╝██║  ██║    ██║ ╚═╝ ██║
 ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝    ╚═╝     ╚═╝
+```
 
 </div>
 
 ---
+
 <br/>
 
 ## `whoami`
 
-Desenvolvedor web apaixonado por código limpo, arquitetura sólida e aprendizado contínuo.
+Desenvolvedor web apaixonado por código limpo, arquitetura sólida e aprendizado contínuo. Atualmente no 4º período de **Ciência da Computação** na Univértix e com formação técnica em **Programação Web** pelo Senac.
 
-Código que funciona é o mínimo — construo aplicações que resistem ao tempo, escalam com confiança e fazem sentido para quem vier depois. Em evolução constante rumo ao pleno, transformando complexidade em soluções elegantes e problemas reais em código com propósito.
-
-<br/>
-
-**`formação`**
-
-- 🎓 Ciência da Computação (4º período) — Univértix
-- 📜 Técnico em Programação Web — Senac
+Construo aplicações focadas em boas práticas, segurança e manutenibilidade — não só em fazer funcionar, mas em fazer **bem feito**. No caminho para desenvolvedor pleno, explorando novas tecnologias e resolvendo problemas reais com código.
 
 <br/>
 
@@ -33,11 +30,9 @@ Código que funciona é o mínimo — construo aplicações que resistem ao temp
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=777BB4)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
 
 <br/>
