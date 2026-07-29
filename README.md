@@ -48,20 +48,6 @@ o próximo projeto sempre vai superar o anterior.** <br>
 
 <br/>
 
-## `Projects`
-
-> _Alguns dos projetos que refletem minha evolução como desenvolvedor._
-
-<br/>
-
-| &nbsp; | Projeto | Stack | &nbsp; |
-|:---:|:---|:---|:---:|
-| `01` | **Lembrete de Medicamentos** | PHP · MySQL · JS | [→ ver](https://github.com/ArthurM749/Projeto-de-Faculdade-site-Lembrete-de-Medicamentos) |
-| `02` | **Portfólio Pessoal** | HTML · CSS · JS | [→ ver](https://github.com/ArthurM749/ArthurM749) |
-| `03` | **Em desenvolvimento...** | --- · --- · --- | [→ ver](https://github.com/ArthurM749/SEU-REPO-AQUI) |
-
-<br/>
-
 ## `Stats`
 
 <div align="center">
