@@ -32,7 +32,7 @@ Computer Science student at **UNIVÉRTIX** (Brazil), currently in my 4th of 8 se
 
 . Languages.Programming: ......... Java, Python, JavaScript, C
 . Languages.Web: ................. HTML, CSS, JSON
-. Languages.Spoken: .............. English, Portuguese (Brazilian)
+. Languages.Spoken: .............. English, Portuguese
 
 . Hobbies.Software: .............. Coding, Self-studying
 . Hobbies.Hardware: .............. Drawing, Playing music
