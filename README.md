@@ -1,67 +1,64 @@
-<div align="center">
+```text
+
+                           █████╗ ██████╗ ████████╗██╗  ██╗██╗   ██╗██████╗     ███╗   ███╗
+                          ██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██║   ██║██╔══██╗    ████╗ ████║
+                          ███████║██████╔╝   ██║   ███████║██║   ██║██████╔╝    ██╔████╔██║
+                          ██╔══██║██╔══██╗   ██║   ██╔══██║██║   ██║██╔══██╗    ██║╚██╔╝██║
+                          ██║  ██║██║  ██║   ██║   ██║  ██║╚██████╔╝██║  ██║    ██║ ╚═╝ ██║
+                          ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝    ╚═╝     ╚═╝
+                              _________________________________________________________
+                              
+                                          Always surpassing the next Build
+                        
+```
+
+
+
 
 <br/>
 
-```
- █████╗ ██████╗ ████████╗██╗  ██╗██╗   ██╗██████╗     ███╗   ███╗
-██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██║   ██║██╔══██╗    ████╗ ████║
-███████║██████╔╝   ██║   ███████║██║   ██║██████╔╝    ██╔████╔██║
-██╔══██║██╔══██╗   ██║   ██╔══██║██║   ██║██╔══██╗    ██║╚██╔╝██║
-██║  ██║██║  ██║   ██║   ██║  ██║╚██████╔╝██║  ██║    ██║ ╚═╝ ██║
-╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝    ╚═╝     ╚═╝
-```
 
-</div>
+Computer Science student at **UNIVÉRTIX** (Brazil), currently in my 4th of 8 semesters. I split my time between backend fundamentals, a few side projects, and hobbies that have nothing to do with a keyboard. Open to internship opportunities, feel free to reach out.
+
+<br clear="right"/>
 
 ---
 
-<br/>
+```text
 
+. Age: ........................... 19 years
+. University: .................... UNIVÉRTIX
+. Course: ........................ B.Sc. Computer Science (4th/8th sem.)
 
-## `Profile`
+. Languages.Programming: ......... Java, Python, JavaScript, C
+. Languages.Web: ................. HTML, CSS, JSON
+. Languages.Spoken: .............. English, Portuguese (Brazilian)
 
- **Eu sou o Arthur, <br>
-e acho que bom nunca é bom o suficiente,<br>
-o próximo projeto sempre vai superar o anterior.** <br>
+. Hobbies.Software: .............. Coding, Self-studying
+. Hobbies.Hardware: .............. Drawing, Playing music
 
-<br/>
+- Contact ------------------------------------
 
-**`Formação`**
+. Email: ......................... arthurmccomp@gmail.com
+. LinkedIn: ...................... arthur-moura-73b1b1388
+. Discord: ....................... ArthurM749
+```
 
-- 🎓 Ciência da Computação (4º período) — Univértix
-- 📜 Técnico em Programação Web — Senac
-
-<br/>
-
-
-## `Stack`
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=777BB4)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-
-<br/>
-
-## `Stats`
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ArthurM749&theme=github_dark&hide_border=true&show_icons=true&hide_title=true&rank_icon=github" />
-  &nbsp;&nbsp;
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurM749&layout=compact&theme=github_dark&hide_border=true" />
-</div>
-
-<br/>
 
 ---
 
 <div align="center">
 
-`arthurmccomp@gmail.com` &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/arthur-moura-73b1b1388)
+### Stack
+
+![Java](https://img.shields.io/badge/Java-d29f22?style=for-the-badge&logo=openjdk&logoColor=19171b)
+![Python](https://img.shields.io/badge/Python-d29f22?style=for-the-badge&logo=python&logoColor=19171b)
+![JavaScript](https://img.shields.io/badge/JavaScript-d29f22?style=for-the-badge&logo=javascript&logoColor=19171b)
+![C](https://img.shields.io/badge/C-d29f22?style=for-the-badge&logo=c&logoColor=19171b)
+![HTML5](https://img.shields.io/badge/HTML5-d29f22?style=for-the-badge&logo=html5&logoColor=19171b)
+![CSS3](https://img.shields.io/badge/CSS3-d29f22?style=for-the-badge&logo=css3&logoColor=19171b)
+![JSON](https://img.shields.io/badge/JSON-d29f22?style=for-the-badge&logo=json&logoColor=19171b)
+
 
 </div>
+
