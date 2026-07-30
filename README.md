@@ -17,7 +17,6 @@
 
 <br/>
 
-
 Computer Science student at **UNIVÉRTIX** (Brazil), currently in my 4th of 8 semesters. I split my time between backend fundamentals, a few side projects, and hobbies that have nothing to do with a keyboard. Open to internship opportunities, feel free to reach out.
 
 <br clear="right"/>
